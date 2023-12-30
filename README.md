@@ -12,7 +12,7 @@
 <details>
 <summary><b>Install all cmds :</b></summary><br>
 
-     apt update && apt upgrade && pkg install python && pkg install git && git clone https://github.com/Hasanff00/Telegram-Free-Views-V2
+     apt update && apt upgrade && pkg install python && pkg install git && git clone https://github.com/HasanVai94/Telegram-Free-Views-V2
      cd Telegram-Free-Views-V2
      ls
      pip install -r requirements.txt
